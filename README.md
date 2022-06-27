@@ -11,7 +11,7 @@ A .JAR file is included in the project folder. It was made with JDK 18.0.1.1.
 
 Español:
 
-Como el nombre indica, este programa representa una simple e intuitiva calculadora. Contiene una ventana principal y dos menús con información acerca del programa y su uso. Escribí este códigos con el propósito de practicar. También añadí dos características que no he visto en otras aplicaciones de calculadoras: un botón de porcentaje (pct.) y otro para calcular el resto de una división (%).
+Como el nombre indica, este programa representa una simple e intuitiva calculadora. Contiene una ventana principal y dos menús con información acerca del programa y su uso. Escribí este código con el propósito de practicar. También añadí dos características que no he visto en otras aplicaciones de calculadoras: un botón de porcentaje (pct.) y otro para calcular el resto de una división (%).
 
 Como desarrollador Java principiante, uno de los principales retos fue escribir los listeners y los manejadores para cada operación. Decidí crear una "fuente" (source) del evento y relacionar cada botón de operación a dicha fuente con una condición "if-else". Conversiones son realizadas entre las tres variables Double declaradas en el evento y el texto mostrado en los campos de texto.
 
